@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://renjl130.github.io/renjiale-portfolio/sitemap.xml
